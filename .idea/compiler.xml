@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Q-ACapstone" />
+        <module name="Email" />
+        <module name="Eureka" />
+        <module name="UserCapstone" />
+        <module name="AdminCapstone" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AdminCapstone" target="1.8" />
+      <module name="Email" target="1.8" />
+      <module name="Eureka" target="1.8" />
+      <module name="Q-ACapstone" target="1.8" />
+      <module name="UserCapstone" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AdminCapstone" options="-parameters" />
+      <module name="Email" options="-parameters" />
+      <module name="Eureka" options="-parameters" />
+      <module name="Q-ACapstone" options="-parameters" />
+      <module name="UserCapstone" options="-parameters" />
+    </option>
+  </component>
+</project>

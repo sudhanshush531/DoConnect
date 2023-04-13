@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Capstone DoConnect-Backend/AdminCapstone/AdminCapstone/AdminCapstone.iml" filepath="$PROJECT_DIR$/Capstone DoConnect-Backend/AdminCapstone/AdminCapstone/AdminCapstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Capstone_DoConnect-Backend.iml" filepath="$PROJECT_DIR$/.idea/Capstone_DoConnect-Backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capstone DoConnect-Backend/Email/Email/Email.iml" filepath="$PROJECT_DIR$/Capstone DoConnect-Backend/Email/Email/Email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capstone DoConnect-Backend/Eureka/Eureka/Eureka.iml" filepath="$PROJECT_DIR$/Capstone DoConnect-Backend/Eureka/Eureka/Eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capstone DoConnect-Backend/Q&amp;ACapstone/Q-ACapstone/Q-ACapstone.iml" filepath="$PROJECT_DIR$/Capstone DoConnect-Backend/Q&amp;ACapstone/Q-ACapstone/Q-ACapstone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Capstone DoConnect-Backend/UserCapstone/UserCapstone/UserCapstone.iml" filepath="$PROJECT_DIR$/Capstone DoConnect-Backend/UserCapstone/UserCapstone/UserCapstone.iml" />
+    </modules>
+  </component>
+</project>
